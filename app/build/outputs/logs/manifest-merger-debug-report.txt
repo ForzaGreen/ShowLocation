@@ -1,0 +1,109 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/wael/AndroidStudioProjects/LocationServices/app/src/main/AndroidManifest.xml:2:1-32:12
+	xmlns:android
+		ADDED from /home/wael/AndroidStudioProjects/LocationServices/app/src/main/AndroidManifest.xml:2:11-69
+	package
+		ADDED from /home/wael/AndroidStudioProjects/LocationServices/app/src/main/AndroidManifest.xml:3:5-67
+		INJECTED from /home/wael/AndroidStudioProjects/LocationServices/app/src/main/AndroidManifest.xml
+		INJECTED from /home/wael/AndroidStudioProjects/LocationServices/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/wael/AndroidStudioProjects/LocationServices/app/src/main/AndroidManifest.xml
+		INJECTED from /home/wael/AndroidStudioProjects/LocationServices/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/wael/AndroidStudioProjects/LocationServices/app/src/main/AndroidManifest.xml
+		INJECTED from /home/wael/AndroidStudioProjects/LocationServices/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/wael/AndroidStudioProjects/LocationServices/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/wael/AndroidStudioProjects/LocationServices/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/wael/AndroidStudioProjects/LocationServices/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /home/wael/AndroidStudioProjects/LocationServices/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/wael/AndroidStudioProjects/LocationServices/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /home/wael/AndroidStudioProjects/LocationServices/app/src/main/AndroidManifest.xml:7:22-78
+application
+ADDED from /home/wael/AndroidStudioProjects/LocationServices/app/src/main/AndroidManifest.xml:9:5-30:19
+MERGED from [com.android.support:appcompat-v7:23.1.1] /home/wael/AndroidStudioProjects/LocationServices/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] /home/wael/AndroidStudioProjects/LocationServices/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.1.1] /home/wael/AndroidStudioProjects/LocationServices/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] /home/wael/AndroidStudioProjects/LocationServices/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] /home/wael/AndroidStudioProjects/LocationServices/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] /home/wael/AndroidStudioProjects/LocationServices/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] /home/wael/AndroidStudioProjects/LocationServices/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth:8.3.0] /home/wael/AndroidStudioProjects/LocationServices/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.3.0/AndroidManifest.xml:20:5-25:19
+MERGED from [com.google.android.gms:play-services-basement:8.3.0] /home/wael/AndroidStudioProjects/LocationServices/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.1] /home/wael/AndroidStudioProjects/LocationServices/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from /home/wael/AndroidStudioProjects/LocationServices/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /home/wael/AndroidStudioProjects/LocationServices/app/src/main/AndroidManifest.xml:12:9-41
+	android:allowBackup
+		ADDED from /home/wael/AndroidStudioProjects/LocationServices/app/src/main/AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from /home/wael/AndroidStudioProjects/LocationServices/app/src/main/AndroidManifest.xml:11:9-43
+	android:theme
+		ADDED from /home/wael/AndroidStudioProjects/LocationServices/app/src/main/AndroidManifest.xml:14:9-40
+activity#locationservices.android.eurecom.fr.locationservices.ShowLocation
+ADDED from /home/wael/AndroidStudioProjects/LocationServices/app/src/main/AndroidManifest.xml:15:9-24:20
+	android:label
+		ADDED from /home/wael/AndroidStudioProjects/LocationServices/app/src/main/AndroidManifest.xml:17:13-45
+	android:theme
+		ADDED from /home/wael/AndroidStudioProjects/LocationServices/app/src/main/AndroidManifest.xml:18:13-56
+	android:name
+		ADDED from /home/wael/AndroidStudioProjects/LocationServices/app/src/main/AndroidManifest.xml:16:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/wael/AndroidStudioProjects/LocationServices/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /home/wael/AndroidStudioProjects/LocationServices/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /home/wael/AndroidStudioProjects/LocationServices/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/wael/AndroidStudioProjects/LocationServices/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /home/wael/AndroidStudioProjects/LocationServices/app/src/main/AndroidManifest.xml:22:27-74
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/wael/AndroidStudioProjects/LocationServices/app/src/main/AndroidManifest.xml:26:9-28:71
+	android:name
+		ADDED from /home/wael/AndroidStudioProjects/LocationServices/app/src/main/AndroidManifest.xml:27:13-58
+	android:value
+		ADDED from /home/wael/AndroidStudioProjects/LocationServices/app/src/main/AndroidManifest.xml:28:13-68
+uses-sdk
+INJECTED from /home/wael/AndroidStudioProjects/LocationServices/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.1.1] /home/wael/AndroidStudioProjects/LocationServices/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] /home/wael/AndroidStudioProjects/LocationServices/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.1.1] /home/wael/AndroidStudioProjects/LocationServices/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] /home/wael/AndroidStudioProjects/LocationServices/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] /home/wael/AndroidStudioProjects/LocationServices/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.1] /home/wael/AndroidStudioProjects/LocationServices/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] /home/wael/AndroidStudioProjects/LocationServices/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] /home/wael/AndroidStudioProjects/LocationServices/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-auth:8.3.0] /home/wael/AndroidStudioProjects/LocationServices/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.3.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:8.3.0] /home/wael/AndroidStudioProjects/LocationServices/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.3.0] /home/wael/AndroidStudioProjects/LocationServices/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.1] /home/wael/AndroidStudioProjects/LocationServices/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from /home/wael/AndroidStudioProjects/LocationServices/app/src/main/AndroidManifest.xml
+		INJECTED from /home/wael/AndroidStudioProjects/LocationServices/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/wael/AndroidStudioProjects/LocationServices/app/src/main/AndroidManifest.xml
+		INJECTED from /home/wael/AndroidStudioProjects/LocationServices/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:8.3.0] /home/wael/AndroidStudioProjects/LocationServices/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.3.0/AndroidManifest.xml:21:9-24:46
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:8.3.0] /home/wael/AndroidStudioProjects/LocationServices/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.3.0/AndroidManifest.xml:22:19-78
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:8.3.0] /home/wael/AndroidStudioProjects/LocationServices/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.3.0/AndroidManifest.xml:24:19-43
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:8.3.0] /home/wael/AndroidStudioProjects/LocationServices/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.3.0/AndroidManifest.xml:23:19-52
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:8.3.0] /home/wael/AndroidStudioProjects/LocationServices/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.3.0/AndroidManifest.xml:21:19-72
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:8.3.0] /home/wael/AndroidStudioProjects/LocationServices/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/AndroidManifest.xml:21:9-23:69
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:8.3.0] /home/wael/AndroidStudioProjects/LocationServices/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/AndroidManifest.xml:22:13-58
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:8.3.0] /home/wael/AndroidStudioProjects/LocationServices/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/AndroidManifest.xml:23:13-66
